@@ -14,7 +14,13 @@ Este proyecto fue realizado como práctica utilizando:
    ```bash
    npm run dev
 
+<<<<<<< HEAD
 
 2. Abrir el navegador e ingresar a:
     
     http://localhost:5173
+=======
+2. Abrir el navegador e ingresar a:
+    
+    http://localhost:5173
+>>>>>>> main
